@@ -1,0 +1,1 @@
+export const testEnv = import.meta.env.VITE_SUPABASE_URL;
